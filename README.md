@@ -2,17 +2,27 @@
 Expanding Rock, Paper, Scissor to total of 15 options to choose Win and Loss from
 
 
-*Learning outcomes*
+
+
+## *Learning outcomes*
 A playable Rock-Paper-Scissors game, with a Player vs Computer mode.
 Practice using arrays, the Random library, formatted strings, and algorithms.
 
+
+
 <video data-v-837a6422="" controls="controls" autoplay="autoplay" loop="loop" muted="muted" width="100%" height="auto" src="https://stepik.org/media/attachments/lesson/255033/demonstration.mp4" class="rounded" __idm_id__="592147457"></video>
 
-**This project is a part of the following tracks**
+
+
+## **This project is a part of the following tracks**
 *Python Developer,Intermediate Python*
 
 
-*What you’ll do and what you’ll learn*
+
+
+## *What you’ll do and what you’ll learn*
+
+
 
 **Stage 1/5: Unfair computer**
 Before learning how to play the game properly, 
